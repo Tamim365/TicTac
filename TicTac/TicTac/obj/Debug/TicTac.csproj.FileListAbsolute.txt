@@ -1,0 +1,9 @@
+G:\Project\TicTac\TicTac\bin\Debug\TicTac.exe.config
+G:\Project\TicTac\TicTac\bin\Debug\TicTac.exe
+G:\Project\TicTac\TicTac\bin\Debug\TicTac.pdb
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.csprojResolveAssemblyReference.cache
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.Form1.resources
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.Properties.Resources.resources
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.Cache
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.exe
+G:\Project\TicTac\TicTac\obj\Debug\TicTac.pdb

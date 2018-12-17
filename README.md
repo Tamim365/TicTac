@@ -3,4 +3,4 @@ I know it's not a big deal. But if you're unable to run it, it becomes a big dea
 
 
 
-#Note that: you've .NET Framework installed in your pc.
+#Note that you've installed .NET Framework in your pc.
